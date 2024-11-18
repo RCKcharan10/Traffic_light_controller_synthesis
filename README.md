@@ -1,4 +1,4 @@
-# EXP6 : Traffic_light_controller_Synthesis
+# EXP6 : Traffic Light Controller -Synthesize the Gate Level Netlist and tabulate Area and Power reports
 
 ## Aim:
 
